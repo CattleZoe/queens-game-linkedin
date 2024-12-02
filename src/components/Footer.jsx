@@ -14,7 +14,7 @@ const Footer = () => {
       <div className="mx-auto w-fit">
        
       </div>
-      -->
+      
     </div>
   );
 };
